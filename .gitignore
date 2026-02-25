@@ -1,0 +1,19 @@
+# Object files
+*.o
+*.obj
+
+# Binary output folders for C and C++
+c/bin/
+cpp/bin/
+
+# Build and distribution folders
+build/
+dist/
+
+# macOS Finder metadata
+.DS_Store
+*/.DS_Store
+
+# Editor configuration folders
+.vscode/
+.idea/
